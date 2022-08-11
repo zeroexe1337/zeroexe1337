@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Filip
-- 👀 I’m interested in coding. I also enjoy sports and cooking.
+- 👀 I’m trying hard to get into coding. In free time I enjoy sports and cooking.
 - 🌱 I’m currently learning java.
 - 💞️ I’m looking to collaborate on almost every java project, from small to bigger ones.
 - 📫 How to reach me @frozy00, fosiak2000@wp.pl
