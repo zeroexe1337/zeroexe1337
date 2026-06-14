@@ -1,5 +1,6 @@
 
-Pursuing Bachelor's in Sports science
+Software Engineer, specialising in AI Development
+I like to develop things from scratch, the new way!
 
 
 <!---
