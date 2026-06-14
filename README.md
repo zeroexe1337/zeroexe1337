@@ -1,5 +1,5 @@
 
-Software Engineer, specialising in AI Development
+Software Engineer, specialising in AI Development.
 I like to develop things from scratch, the new way!
 
 
